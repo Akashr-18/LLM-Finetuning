@@ -1,2 +1,2 @@
 # LLM-Finetuning
-Creating this simple to share my knowledge base in finetuning.
+Creating this simple to share my knowledge base in finetuning large language models.
